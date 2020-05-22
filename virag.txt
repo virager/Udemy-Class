@@ -1,7 +1,1 @@
 Hey, this is virag kumar
-
-This is a line to check what exactly diff do 
-
-This is third line
-
-This is foutth line
